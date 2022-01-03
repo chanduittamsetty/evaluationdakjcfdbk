@@ -1,0 +1,21 @@
+#nav{
+    height: 50px;
+    width: 100%;
+    background-color: teal;
+}
+#cont{
+    float: right;
+    display: flex;
+}
+#cont> div{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+#signupdiv{
+    display: none;
+}
+#logindiv{
+    display: none;
+}

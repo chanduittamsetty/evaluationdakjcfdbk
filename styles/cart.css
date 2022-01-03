@@ -1,0 +1,22 @@
+#cartcont > div{
+    display: flex;
+    margin: 10px;
+}
+img{
+    width: 100px;
+}
+button{
+    height:25px;
+    margin: 50px;
+    cursor: pointer;
+}
+#cont{
+    display: flex;
+}
+#cartcont{
+    width: 60%;
+}
+#carttotal{
+    width: 40%;
+    border: 2px solid yellow;
+}

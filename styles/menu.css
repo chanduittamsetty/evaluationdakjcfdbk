@@ -1,0 +1,9 @@
+#cont{
+    display: grid;
+    /* grid-template-rows:500px 500px 500px; */
+    grid-template-columns: 300px 300px 300px;
+    gap:30px;
+}
+img{
+    width: 300px;
+}
